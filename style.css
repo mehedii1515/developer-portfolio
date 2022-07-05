@@ -8,7 +8,7 @@ h1{
 .yellow-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -36,4 +36,7 @@ section{
     background-image:url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experiance-area{
+
 }
